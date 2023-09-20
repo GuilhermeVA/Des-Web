@@ -1,0 +1,36 @@
+* {
+    background-color: rgb(76, 75, 75);
+    color: white;
+    font-family: 'Roboto', sans-serif;
+
+}
+h1{
+    font-size: 70px;
+    margin-bottom: 0;
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    padding-inline-start: 40%;
+    background-color: #9E4D2F;
+}
+.classe-um{
+    background-color: darkcyan;
+    color: white;
+
+    
+}
+a:hover{
+    color: aqua;
+}
+#div{
+    min-height: 2em;
+    background-color: darkcyan;
+}
+.classe-dois{
+    width: 10%;
+}
+span{
+    font-weight: bold;
+    background-color: aqua;
+    color: red;
+}
