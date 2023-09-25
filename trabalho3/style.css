@@ -10,12 +10,14 @@ h1{
     border-width: 5px;
     border-color: black;
     border-style: solid;
-    padding-inline-start: 40%;
     background-color: #9E4D2F;
 }
 .classe-um{
     background-color: darkcyan;
     color: white;
+    size: fixed;
+    width: 1000px;
+
 
     
 }
